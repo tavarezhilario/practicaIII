@@ -1,8 +1,15 @@
 {
-    "name": "practica_III",
+    "name": "PracticaIII",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
-    "author": "tepcurso04",
-    "contributors": [],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Usuario",
+    "contributors": [
+    ],
     "dependencies": {}
 }
